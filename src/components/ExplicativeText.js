@@ -16,6 +16,11 @@ export default function NavBar() {
       <Typography className={classes.cartText}>
         Agrega al carro si necesitas reponer
       </Typography>
+      <div className={classes.titleDiv}>
+        <Typography className={classes.text}>
+          Te queda
+        </Typography>
+      </div>
     </div>
   );
 }

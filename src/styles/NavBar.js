@@ -17,8 +17,6 @@ export const useStylesNavbar = makeStyles(() => ({
   menuButton: {
     width: '48px',
     height: '48px',
-
-    // marginRight: theme.spacing(2)
   },
   title: {
     flexGrow: 1

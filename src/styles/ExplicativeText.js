@@ -50,6 +50,32 @@ export const useStylesExplicativeText = makeStyles(() => ({
 
     color: '#414046',
 
+  },
+  titleDiv:{  
+    position: 'absolute',
+    width: '375px',
+    height: '40px',
+    left: '0px',
+    top: '219px',
+    
+    background: '#F5F5F5',
+
+  },
+  text: {
+    position: 'absolute',
+    width: '92px',
+    height: '29px',
+    left: '16px',
+    top: '7px',
+
+    fontStyle: 'normal',
+    fontWeight: 500,
+    fontSize: '19px',
+    lineHeight: '28px',
+    letterSpacing: '0.15px',
+
+    color: '#414046',
+
   }
 
   
